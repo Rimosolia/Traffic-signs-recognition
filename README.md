@@ -15,5 +15,5 @@ Traffic_Sign.py - Code we used for creating the object-detect model and exportin
 App.py - Code is used for detect the name of traffic signs by using model that we exported them.
 
 ### Pretrained models
-my_model.h5 - The model we created for all object-detection 
-traffic_classifier.h5 - The model we created for traffic signs detection
+- my_model.h5 - The model we created for all object-detection 
+- traffic_classifier.h5 - The model we created for traffic signs detection
