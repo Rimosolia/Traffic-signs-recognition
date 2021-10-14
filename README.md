@@ -7,7 +7,7 @@ We use the coco128 dataset. You can check and download them from: [Kaggle](https
 
 ### Concept
 - Batch Normalization [Paper](https://paperswithcode.com/method/batch-normalization)
-- Real-Time Object Detection Using YOLO [Paper] (https://www.researchgate.net/publication/351411017_Real-Time_Object_Detection_using_YOLO_A_review)
+- Real-Time Object Detection Using YOLO [Paper](https://www.researchgate.net/publication/351411017_Real-Time_Object_Detection_using_YOLO_A_review)
 
 ### Provided
 Documents Folder - The report about our research problem
