@@ -1,8 +1,7 @@
 # Traffic Signs Recognition
 
 ### Objective
-We aim to build the traffic signs detection models from the scratch and research the concept of YOLO framework for solving video object detection problem. 
-
+We aim to build the traffic signs detection models from the scratch and research the concept of YOLO framework for solving video object detection problem.  After that, we intend to implement Machine Learning on Microcontroller (such as ESP32 , STM32, Arduino,...)
 ### Dataset
 We use the coco128 dataset. You can check and download them from: [Kaggle](https://www.kaggle.com/ultralytics/coco128)
 
